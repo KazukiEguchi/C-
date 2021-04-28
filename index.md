@@ -3,7 +3,7 @@ test
 # C++
 江添さんで読んだこと覚え
 
-## [vector ループ](../1_vector.md)
+## [vector ループ](./1_vector.md)
 2種類のループ
 
 ## アルゴリズム
