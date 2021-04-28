@@ -5,3 +5,6 @@
 2種類のループ
 
 ## アルゴリズム
+
+## link
+[Index is Here](https://kazukieguchi.github.io/C-/)
