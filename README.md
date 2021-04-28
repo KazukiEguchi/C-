@@ -7,4 +7,4 @@
 ## アルゴリズム
 
 ## link
-[Index is Here](https://kazukieguchi.github.io/C-/)
+[Index is Here](https://kazukieguchi.github.io/C-plus-ezoe/)
